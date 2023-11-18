@@ -2,4 +2,6 @@
 
 Donut
 
-<img src="https://github.com/Carbine28/Blender30/blob/main/Day3-Donut/donut-f0-render.png" width="720" height="1080">
+<img src="https://github.com/Carbine28/Blender30/blob/main/Day3-Donut/donut-render.png" width="720" height="1080">
+
+https://github.com/Carbine28/Blender30/blob/main/Day3-Donut/donut-render.png
